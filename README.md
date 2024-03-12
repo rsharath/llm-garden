@@ -1,5 +1,5 @@
 # ModelHub
-This is not another LLM benchmark. It is meant to be a simple place to go to find out what models to use, how they compare with others (benchmarks), and their leaderboards, which may help practitioners decide what models to use. If you find this useful, please consider leaving a star. 
+This is not another LLM benchmark or leaderboard. It is meant to be a simple place to find out what models to use, how they compare with others (benchmarks), and their leaderboards, which may help practitioners decide what models to use. If you find this useful, please consider leaving a star. 
 
 ## Introduction
 This repository contains useful links and information about useful models, providers, and benchmarks. I built this mostly to keep track of the models I use and the benchmarks I find useful for the respective models. It also helps to have a single page that I can refer to for all the models and leaderboards.
