@@ -1,7 +1,7 @@
 # ModelHub
 
 ## Introduction
-This repository contains some useful links and information around useful models, providers and their benchmarks. I built this mostly to keep track of the models I use and the benchmarks I run and the results I see. It also helps to have a single page that I can refer to for all the models and leaderboards.
+This repository contains some useful links and information around useful models, providers and their benchmarks. I built this mostly to keep track of the models I use and the benchmarks I find useful for the respective models. It also helps to have a single page that I can refer to for all the models and leaderboards.
 
 ## Provider Benchmarks
 [Inference Providers](https://leaderboard.withmartian.com/) This is primarily based on cost/performance/latency and other factors. It is a good place to start if you are looking for a provider for your model.
