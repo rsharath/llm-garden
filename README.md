@@ -7,6 +7,14 @@ This repository contains useful links and information about useful models, provi
 ## Provider Benchmarks
 [Inference Providers](https://leaderboard.withmartian.com/) This is primarily based on cost/performance/latency and other factors. It is a good place to start if you are looking for a provider for your model.
 
+### LLM Leaderboards
+| Type | Leaderboard & Benchmarks | Notes |
+|:-------------|:--------------:|--------------:|
+| LLM Leaderboard | [Steamlit's Leaderboard](https://llm-leaderboard.streamlit.app/) | | 
+| OpenLLM Leaderboard | [Huggingface OpenLLM](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)| | |
+| Human Eval Benchmark | [Leaderboard](https://github.com/my-other-github-account/llm-humaneval-benchmarks)| | |
+| Helm Leaderboard | [Leaderboard](https://crfm.stanford.edu/helm/lite/latest/#/leaderboard)| | |
+
 ### Text & Chat Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
@@ -18,6 +26,7 @@ This repository contains useful links and information about useful models, provi
 ### Coding Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
+| Eval Plus | [Leaderboard](https://evalplus.github.io/leaderboard.html)| | |
 | Code Security |[CyberSecEval for Code](https://huggingface.co/spaces/facebook/CyberSecEval)| |
 | Code Effectiveness | [BigCode AI Benchmark](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)| |
 | Code Tasks | [Can AI Code Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)| | |
@@ -25,24 +34,25 @@ This repository contains useful links and information about useful models, provi
 ### Image Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
-#### Models for Text to Image
+| T2I Comp Bench | [Benchmark](https://github.com/Karine-Huang/T2I-CompBench)| | |
+| Text to image | | | |
+| | | |
 
 ### Video Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
-#### Models for Text to Video
+| Text to Video Models | [Leaderboard](https://huggingface.co/spaces/AILab-CVC/EvalCrafter)| | |
+| | | |
 
 ### Speech Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
-| Models for Automatic Speech Recognition (ASR) for Speech to Text|[Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)| | |
+| Automatic Speech Recognition (ASR) Models for Speech to Text|[Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)| | |
+| Text to Speech | [Synthesis](https://paperswithcode.com/task/text-to-speech-synthesis) | | 
+| Text to Speech| [TTS Arena](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) | |
 | | | |
-
-#### Models for Text to Speech (TTS)
-| Type | Leaderboard & Benchmarks | Notes |
-|:-------------|:--------------:|--------------:|
 
 ### Language Translation Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
-
+| | | |
