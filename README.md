@@ -1,4 +1,4 @@
-# ModelHub
+# LLM Garden
 This is not another LLM benchmark or leaderboard. It is meant to be a simple place to find out what models to use, how they compare with others (benchmarks), and their leaderboards, which may help practitioners decide what models to use. If you find this useful, please consider leaving a star. 
 
 ## Introduction
