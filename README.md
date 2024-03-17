@@ -7,18 +7,18 @@ This repository contains useful links and information about useful models, provi
 ## Provider Benchmarks
 [Inference Providers](https://leaderboard.withmartian.com/) This is primarily based on cost/performance/latency and other factors. It is a good place to start if you are looking for a provider for your model.
 
-### LLM Leaderboards
+### General LLM Leaderboards
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
 | OpenLLM Leaderboard | [Huggingface OpenLLM](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)| | |
 | Helm Leaderboard | [Leaderboard](https://crfm.stanford.edu/helm/lite/latest/#/leaderboard)| | |
+| Chat Models | [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)| | | 
+| | | |
 
-### Text & Chat Models
+### Text Embedding Models
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
 | Text Embedding Models | [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) | |
-| | | |
-| Chat Models | [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)| | | 
 | | | |
 
 ### Coding Models
@@ -34,7 +34,6 @@ This repository contains useful links and information about useful models, provi
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
 | T2I Comp Bench | [Benchmark](https://github.com/Karine-Huang/T2I-CompBench)| | |
-| Text to image | | | |
 | | | |
 
 ### Video Models
