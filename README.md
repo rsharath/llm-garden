@@ -10,9 +10,7 @@ This repository contains useful links and information about useful models, provi
 ### LLM Leaderboards
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
-| LLM Leaderboard | [Steamlit's Leaderboard](https://llm-leaderboard.streamlit.app/) | | 
 | OpenLLM Leaderboard | [Huggingface OpenLLM](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)| | |
-| Human Eval Benchmark | [Leaderboard](https://github.com/my-other-github-account/llm-humaneval-benchmarks)| | |
 | Helm Leaderboard | [Leaderboard](https://crfm.stanford.edu/helm/lite/latest/#/leaderboard)| | |
 
 ### Text & Chat Models
@@ -27,6 +25,7 @@ This repository contains useful links and information about useful models, provi
 | Type | Leaderboard & Benchmarks | Notes |
 |:-------------|:--------------:|--------------:|
 | Eval Plus | [Leaderboard](https://evalplus.github.io/leaderboard.html)| | |
+| HumanEval+ Python | [Benchmark Leaderboard](https://github.com/my-other-github-account/llm-humaneval-benchmarks)| |
 | Code Security |[CyberSecEval for Code](https://huggingface.co/spaces/facebook/CyberSecEval)| |
 | Code Effectiveness | [BigCode AI Benchmark](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)| |
 | Code Tasks | [Can AI Code Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)| | |
