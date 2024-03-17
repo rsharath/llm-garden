@@ -3,8 +3,7 @@
         "model":"Claude 2.0",
         "api_provider":"Anthropic",
         "license":"Proprietary",
-        "context_window":"100k",
-        "index":67.0,
+        "context_window":"100k"
         "blended_usd_per_1m_tokens":12.0,
         "input_usd_per_1m_tokens":8.0,
         "output_usd_per_1m_tokens":24.0,
@@ -23,8 +22,7 @@
         "model":"Claude 2.1",
         "api_provider":"Anthropic",
         "license":"Proprietary",
-        "context_window":"200k",
-        "index":59.0,
+        "context_window":"200k"
         "blended_usd_per_1m_tokens":12.0,
         "input_usd_per_1m_tokens":8.0,
         "output_usd_per_1m_tokens":24.0,
@@ -43,8 +41,7 @@
         "model":"Claude 3 Haiku",
         "api_provider":"Anthropic",
         "license":"Proprietary",
-        "context_window":"200k",
-        "index":75.0,
+        "context_window":"200k"
         "blended_usd_per_1m_tokens":0.5,
         "input_usd_per_1m_tokens":0.25,
         "output_usd_per_1m_tokens":1.25,
@@ -63,8 +60,7 @@
         "model":"Claude 3 Opus",
         "api_provider":"Anthropic",
         "license":"Proprietary",
-        "context_window":"200k",
-        "index":100.0,
+        "context_window":"200k"
         "blended_usd_per_1m_tokens":30.0,
         "input_usd_per_1m_tokens":15.0,
         "output_usd_per_1m_tokens":75.0,
@@ -83,8 +79,7 @@
         "model":"Claude 3 Sonnet",
         "api_provider":"Anthropic",
         "license":"Proprietary",
-        "context_window":"200k",
-        "index":83.0,
+        "context_window":"200k"
         "blended_usd_per_1m_tokens":6.0,
         "input_usd_per_1m_tokens":3.0,
         "output_usd_per_1m_tokens":15.0,
@@ -103,8 +98,7 @@
         "model":"Claude Instant",
         "api_provider":"Anthropic",
         "license":"Proprietary",
-        "context_window":"100k",
-        "index":58.0,
+        "context_window":"100k"
         "blended_usd_per_1m_tokens":1.2,
         "input_usd_per_1m_tokens":0.8,
         "output_usd_per_1m_tokens":2.4,
@@ -123,8 +117,7 @@
         "model":"Code Llama (70B)",
         "api_provider":"Meta",
         "license":"Open",
-        "context_window":"100k",
-        "index":58.0,
+        "context_window":"100k"
         "blended_usd_per_1m_tokens":0.9,
         "input_usd_per_1m_tokens":0.9,
         "output_usd_per_1m_tokens":0.9,
@@ -143,8 +136,7 @@
         "model":"Command",
         "api_provider":"Cohere",
         "license":"Proprietary",
-        "context_window":"4k",
-        "index":0.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":1.63,
         "input_usd_per_1m_tokens":1.5,
         "output_usd_per_1m_tokens":2.0,
@@ -163,8 +155,7 @@
         "model":"Command Light",
         "api_provider":"Cohere",
         "license":"Proprietary",
-        "context_window":"4k",
-        "index":0.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":0.38,
         "input_usd_per_1m_tokens":0.3,
         "output_usd_per_1m_tokens":0.6,
@@ -183,8 +174,7 @@
         "model":"Gemini Pro",
         "api_provider":"Google",
         "license":"Proprietary",
-        "context_window":"33k",
-        "index":60.0,
+        "context_window":"33k"
         "blended_usd_per_1m_tokens":1.25,
         "input_usd_per_1m_tokens":1.0,
         "output_usd_per_1m_tokens":2.0,
@@ -203,8 +193,7 @@
         "model":"Gemma 7B",
         "api_provider":"Google",
         "license":"Open",
-        "context_window":"8k",
-        "index":51.0,
+        "context_window":"8k"
         "blended_usd_per_1m_tokens":0.14,
         "input_usd_per_1m_tokens":0.14,
         "output_usd_per_1m_tokens":0.14,
@@ -223,8 +212,7 @@
         "model":"GPT-3.5 Turbo",
         "api_provider":"OpenAI",
         "license":"Proprietary",
-        "context_window":"16k",
-        "index":60.0,
+        "context_window":"16k"
         "blended_usd_per_1m_tokens":0.75,
         "input_usd_per_1m_tokens":0.5,
         "output_usd_per_1m_tokens":1.5,
@@ -243,8 +231,7 @@
         "model":"GPT-3.5 Turbo Instruct",
         "api_provider":"OpenAI",
         "license":"Proprietary",
-        "context_window":"4k",
-        "index":60.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":1.63,
         "input_usd_per_1m_tokens":1.5,
         "output_usd_per_1m_tokens":2.0,
@@ -263,8 +250,7 @@
         "model":"GPT-4",
         "api_provider":"OpenAI",
         "license":"Proprietary",
-        "context_window":"8k",
-        "index":88.0,
+        "context_window":"8k"
         "blended_usd_per_1m_tokens":37.5,
         "input_usd_per_1m_tokens":30.0,
         "output_usd_per_1m_tokens":60.0,
@@ -283,8 +269,7 @@
         "model":"GPT-4 Turbo",
         "api_provider":"OpenAI",
         "license":"Proprietary",
-        "context_window":"128k",
-        "index":100.0,
+        "context_window":"128k"
         "blended_usd_per_1m_tokens":15.0,
         "input_usd_per_1m_tokens":10.0,
         "output_usd_per_1m_tokens":30.0,
@@ -303,8 +288,7 @@
         "model":"GPT-4 Vision",
         "api_provider":"OpenAI",
         "license":"Proprietary",
-        "context_window":"128k",
-        "index":100.0,
+        "context_window":"128k"
         "blended_usd_per_1m_tokens":15.0,
         "input_usd_per_1m_tokens":10.0,
         "output_usd_per_1m_tokens":30.0,
@@ -323,8 +307,7 @@
         "model":"Llama 2 Chat (7B)",
         "api_provider":"Meta",
         "license":"Open",
-        "context_window":"4k",
-        "index":13.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":0.2,
         "input_usd_per_1m_tokens":0.2,
         "output_usd_per_1m_tokens":0.2,
@@ -343,8 +326,7 @@
         "model":"Llama 2 Chat (13B)",
         "api_provider":"Meta",
         "license":"Open",
-        "context_window":"4k",
-        "index":24.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":0.25,
         "input_usd_per_1m_tokens":0.25,
         "output_usd_per_1m_tokens":0.3,
@@ -363,8 +345,7 @@
         "model":"Llama 2 Chat (70B)",
         "api_provider":"Meta",
         "license":"Open",
-        "context_window":"4k",
-        "index":38.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":1.0,
         "input_usd_per_1m_tokens":0.9,
         "output_usd_per_1m_tokens":1.0,
@@ -383,8 +364,7 @@
         "model":"Mistral 7B",
         "api_provider":"Mistral",
         "license":"Open",
-        "context_window":"33k",
-        "index":28.0,
+        "context_window":"33k"
         "blended_usd_per_1m_tokens":0.2,
         "input_usd_per_1m_tokens":0.2,
         "output_usd_per_1m_tokens":0.2,
@@ -403,8 +383,7 @@
         "model":"Mistral Large",
         "api_provider":"Mistral",
         "license":"Proprietary",
-        "context_window":"33k",
-        "index":88.0,
+        "context_window":"33k"
         "blended_usd_per_1m_tokens":12.0,
         "input_usd_per_1m_tokens":8.0,
         "output_usd_per_1m_tokens":24.0,
@@ -423,8 +402,7 @@
         "model":"Mistral Medium",
         "api_provider":"Mistral",
         "license":"Proprietary",
-        "context_window":"33k",
-        "index":72.0,
+        "context_window":"33k"
         "blended_usd_per_1m_tokens":4.05,
         "input_usd_per_1m_tokens":2.7,
         "output_usd_per_1m_tokens":8.1,
@@ -443,8 +421,7 @@
         "model":"Mistral Small",
         "api_provider":"Mistral",
         "license":"Proprietary",
-        "context_window":"33k",
-        "index":68.0,
+        "context_window":"33k"
         "blended_usd_per_1m_tokens":3.0,
         "input_usd_per_1m_tokens":2.0,
         "output_usd_per_1m_tokens":6.0,
@@ -463,8 +440,7 @@
         "model":"Mixtral 8x7B",
         "api_provider":"Mistral",
         "license":"Open",
-        "context_window":"33k",
-        "index":62.0,
+        "context_window":"33k"
         "blended_usd_per_1m_tokens":0.5,
         "input_usd_per_1m_tokens":0.5,
         "output_usd_per_1m_tokens":0.5,
@@ -483,8 +459,7 @@
         "model":"OpenChat 3.5",
         "api_provider":"OpenChat",
         "license":"Open",
-        "context_window":"8k",
-        "index":47.0,
+        "context_window":"8k"
         "blended_usd_per_1m_tokens":0.17,
         "input_usd_per_1m_tokens":0.17,
         "output_usd_per_1m_tokens":0.17,
@@ -503,8 +478,7 @@
         "model":"PPLX-7B-Online",
         "api_provider":"Perplexity",
         "license":"Proprietary",
-        "context_window":"4k",
-        "index":22.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":0.2,
         "input_usd_per_1m_tokens":0.2,
         "output_usd_per_1m_tokens":0.2,
@@ -523,8 +497,7 @@
         "model":"PPLX-70B Online",
         "api_provider":"Perplexity",
         "license":"Proprietary",
-        "context_window":"4k",
-        "index":35.0,
+        "context_window":"4k"
         "blended_usd_per_1m_tokens":1.0,
         "input_usd_per_1m_tokens":1.0,
         "output_usd_per_1m_tokens":1.0,
